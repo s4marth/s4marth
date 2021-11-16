@@ -3,7 +3,7 @@
 </p>
 
 
- ## 🙋‍About Me
+ ##🙋‍♂️About Me
 
 - 🔭 I’m currently working on: [GWOC](https://github.com/s4marth/winter-of-contributing)
 - 📚 A 3rd year IT student.
