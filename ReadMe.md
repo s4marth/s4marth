@@ -5,7 +5,7 @@
 
  ##🙋‍♂️About Me
 
-- 🔭 I’m currently working on: [GWOC](https://github.com/s4marth/winter-of-contributing)
+- 🔭 I’m currently working on: [GSoC'22](https://github.com/s4marth/Awesome-Demo-Game-GSoC22-Catrobat)
 - 📚 A 3rd year IT student.
 - 🌱 I’m currently focusing on datastructures and also on opensource.
 - 📫 Reach me: **s4marthsharma@gmail.com**
