@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hola+👋,+I'm+Samarth+Sharma+✌+;A+Student+👨‍🎓;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hello+I'm+Samarth+Sharma+✌+;A+Student+👨‍🎓;">
 </p>
 
 
- ##🙋‍♂️About Me
+ ## 🙋‍♂️About Me
 
-- 🔭 I’m currently working on: [GSoC'22](https://github.com/s4marth/Awesome-Demo-Game-GSoC22-Catrobat)
-- 📚 A 3rd year IT student.
-- 🌱 I’m currently focusing on datastructures and also on opensource.
+- 🔭 Curently Mentoring in: [GSoC'23](https://github.com/s4marth/Awesome-Demo-Game-GSoC22-Catrobat)
+- 🔭 Worked as contributor in: [GSoC'22](https://github.com/s4marth/Awesome-Demo-Game-GSoC22-Catrobat)
+- 📚 An IT student.
+- 🌱 Focusing on Software development and opensource.
 - 📫 Reach me: **s4marthsharma@gmail.com**
-- 😉 Its nice to meet you!
 
 
 ## ✅ Languages and Tools:
@@ -19,13 +19,15 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+   <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original-wordmark.svg" alt="js" width="40" height="40"/> </a> 
 </p>
 
 
 ## 📊 My Github Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s4marth&show_icons=true&theme=dark&locale=en"/></p>
 
-[//]: <> (<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s4marth&theme=dark" alt="s4marth" /></p>)
 
   <a href="https://github.com/s4marth/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4marth&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
