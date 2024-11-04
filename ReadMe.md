@@ -1,13 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hello+I'm+Samarth+Sharma+✌+;A+Student+👨‍🎓;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hello+I'm+Samarth+Sharma;">
 </p>
 
 
  ## 🙋‍♂️About Me
 
-- 🔭 Curently Mentoring in: [GSoC'23](https://github.com/s4marth/Awesome-Demo-Game-GSoC22-Catrobat)
-- 🔭 Worked as contributor in: [GSoC'22](https://github.com/s4marth/Awesome-Demo-Game-GSoC22-Catrobat)
-- 📚 An IT student.
+- 🔭 Curently Working as software engineer
+- 🔭 Worked as Mentee and Mentor in: [GSoC'22](https://github.com/s4marth/Awesome-Demo-Game-GSoC22-Catrobat)
 - 🌱 Focusing on Software development and opensource.
 - 📫 Reach me: **s4marthsharma@gmail.com**
 
